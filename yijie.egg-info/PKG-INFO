@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: yijie
+Version: 0.1
+Summary: My YiJie Web
+Home-page: https://github.com/xialunhao/yijie.git
+Author: xialunhao
+Author-email: xialunhao@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
